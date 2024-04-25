@@ -1,0 +1,6 @@
+
+
+.DS_Store
+scratch.*
+.env
+GOOGLE_APPLICATION_CREDENTIALS.json
